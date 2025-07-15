@@ -36,11 +36,13 @@ For each algorithm, the following metrics are evaluated:
 ├── weight/
 │   └── converter.py       # Used for generate a random weight for every arch
 ├── src/
-│   └── algorithms.py       # All algorithm implementations
-│   └── data_fetch.py       # Graph loading and parsing logic
+│   ├── algorithms.py       # All algorithm implementations
+│   ├── data_fetch.py       # Graph loading and parsing logic
 │   └── main.py             # Command-line user interface
 ├── dataset/
+│   ├── amazon0312.txt
 │   └── amazon0312-weighted.txt
+├── LICENSE
 └── README.md           # Project documentation
 ```
 
