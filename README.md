@@ -42,7 +42,7 @@ For each algorithm, the following metrics are evaluated:
 ├── dataset/
 │   ├── amazon0312.txt
 │   └── amazon0312-weighted.txt
-├── LICENSE
+├── LICENSE             # License
 └── README.md           # Project documentation
 ```
 
