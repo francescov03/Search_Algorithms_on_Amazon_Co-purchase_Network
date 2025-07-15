@@ -84,6 +84,7 @@ COST: 521
 
 ## Author
 
-Francesco Pio Vitiello
-Luigi Mercurio
-Mario Sorrentino# Search_Algorithms_on_Amazon_Co-purchase_Network
+Francesco Pio Vitiello,
+Luigi Mercurio,
+Mario Sorrentino
+# Search_Algorithms_on_Amazon_Co-purchase_Network
