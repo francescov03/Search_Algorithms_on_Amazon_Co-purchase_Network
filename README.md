@@ -87,4 +87,3 @@ COST: 521
 Francesco Pio Vitiello,
 Luigi Mercurio,
 Mario Sorrentino
-# Search_Algorithms_on_Amazon_Co-purchase_Network
